@@ -1,2 +1,2 @@
 akgo
-diccionario 
+dicionario 
